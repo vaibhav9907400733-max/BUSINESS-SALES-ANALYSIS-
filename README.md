@@ -16,5 +16,5 @@ This repository contains a **Power BI dashboard** that analyzes sales performanc
 1. Clone or download this repository.  
 2. Open the `vaibhav shah.pbix` file in **Power BI Desktop**.  
 3. Explore the visuals and insights interactively.
-
-   [Dashboard Preview](Images/dashboard_preview.png) 
+[Dashboard Preview](Images/dashboard_preview001.png)
+   [Dashboard Preview](Images/dashboard_preview0002.png) 
